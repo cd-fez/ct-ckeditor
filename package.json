@@ -1,6 +1,6 @@
 {
   "name": "ct-ckeditor",
-  "version": "4.16.0",
+  "version": "4.16.1",
   "description": "ct-ckeditor",
   "main": "ckeditor.js",
   "repository": {
